@@ -1,0 +1,2 @@
+javac Main.java Estimator.java CsvStore.java
+java Main
